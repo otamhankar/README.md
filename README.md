@@ -1,3 +1,6 @@
 # README.md
-MSIS
+MSIS\
+erculkin
+lhume10
 otamhankar
+stankoc
